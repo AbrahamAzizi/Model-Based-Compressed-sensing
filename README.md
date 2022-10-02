@@ -1,2 +1,2 @@
-# Model-Based-Compressed-sensing
+# ModelBasedCompressiveSensing
 Investigate Compressed sensing reconstruction of voltage images recording with MEA
